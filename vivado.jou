@@ -13,3 +13,4 @@
 start_gui
 open_project F:/project/Activation_Function_Unit_of_Sigmoid_Function/aafu.xpr
 update_compile_order -fileset sources_1
+close_project
